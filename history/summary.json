@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "int-1",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 668,
-    "timeDay": 728,
-    "timeWeek": 662,
-    "timeMonth": 668,
-    "timeYear": 668,
-    "dailyMinutesDown": {
-      "2022-05-02": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 676,
+    "timeDay": 749,
+    "timeWeek": 680,
+    "timeMonth": 676,
+    "timeYear": 676,
+    "dailyMinutesDown": {}
   },
   {
     "name": "INT2",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 846,
+    "time": 668,
+    "timeDay": 759,
     "timeWeek": 692,
-    "timeMonth": 663,
-    "timeYear": 663,
+    "timeMonth": 668,
+    "timeYear": 668,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 595,
-    "timeWeek": 670,
-    "timeMonth": 675,
-    "timeYear": 675,
+    "time": 678,
+    "timeDay": 714,
+    "timeWeek": 661,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {}
   }
 ]
