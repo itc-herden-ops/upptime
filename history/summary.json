@@ -4,53 +4,59 @@
     "url": "$INT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "int-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 719,
-    "timeDay": 775,
-    "timeWeek": 811,
-    "timeMonth": 719,
-    "timeYear": 719,
-    "dailyMinutesDown": {}
+    "time": 715,
+    "timeDay": 684,
+    "timeWeek": 784,
+    "timeMonth": 715,
+    "timeYear": 715,
+    "dailyMinutesDown": {
+      "2022-05-13": 0
+    }
   },
   {
     "name": "INT2",
     "url": "$INT2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "int-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 1106,
-    "timeWeek": 867,
-    "timeMonth": 728,
-    "timeYear": 728,
-    "dailyMinutesDown": {}
+    "time": 723,
+    "timeDay": 861,
+    "timeWeek": 836,
+    "timeMonth": 723,
+    "timeYear": 723,
+    "dailyMinutesDown": {
+      "2022-05-13": 0
+    }
   },
   {
     "name": "PROD",
     "url": "$PROD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 742,
-    "timeWeek": 704,
-    "timeMonth": 680,
-    "timeYear": 680,
-    "dailyMinutesDown": {}
+    "time": 678,
+    "timeDay": 686,
+    "timeWeek": 695,
+    "timeMonth": 678,
+    "timeYear": 678,
+    "dailyMinutesDown": {
+      "2022-05-13": 0
+    }
   }
 ]
