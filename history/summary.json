@@ -4,10 +4,10 @@
     "url": "$INT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "int-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 810,
@@ -15,16 +15,18 @@
     "timeWeek": 994,
     "timeMonth": 895,
     "timeYear": 810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-28": 1
+    }
   },
   {
     "name": "INT2",
     "url": "$INT2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "int-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 993,
     "timeMonth": 874,
     "timeYear": 791,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-28": 0
+    }
   },
   {
     "name": "PROD",
